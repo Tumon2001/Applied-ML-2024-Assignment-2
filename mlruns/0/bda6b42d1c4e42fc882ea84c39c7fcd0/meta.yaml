@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bda6b42d1c4e42fc882ea84c39c7fcd0/artifacts
+end_time: 1708451282422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bda6b42d1c4e42fc882ea84c39c7fcd0
+run_name: classy-hare-843
+run_uuid: bda6b42d1c4e42fc882ea84c39c7fcd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708451279648
+status: 3
+tags: []
+user_id: tumon

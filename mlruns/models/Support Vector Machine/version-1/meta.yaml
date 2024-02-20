@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1708451331557
+current_stage: None
+description: ''
+last_updated_timestamp: 1708451331557
+name: Support Vector Machine
+run_id: 985c9edd9b34412598b217427d73188a
+run_link: ''
+source: mlflow-artifacts:/0/985c9edd9b34412598b217427d73188a/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/985c9edd9b34412598b217427d73188a/artifacts/sklearn-model
+user_id: null
+version: 1

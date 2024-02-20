@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/985c9edd9b34412598b217427d73188a/artifacts
+end_time: 1708451331560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 985c9edd9b34412598b217427d73188a
+run_name: shivering-croc-455
+run_uuid: 985c9edd9b34412598b217427d73188a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708451287984
+status: 3
+tags: []
+user_id: tumon
